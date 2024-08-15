@@ -36,6 +36,7 @@ const Weather = () => {
   return (
     <div>
         <h1>Check Today's Weather</h1>
+        <p>Check out for daily weather updates</p>
       <input
         type="text"
         value={city}
